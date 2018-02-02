@@ -1,0 +1,7 @@
+D:\Folder_cgd\LearnAndTestNew\UnityWangLuoYouXiShiZhan\Chapter8\Server\Serv\bin\Debug\Serv.exe
+D:\Folder_cgd\LearnAndTestNew\UnityWangLuoYouXiShiZhan\Chapter8\Server\Serv\bin\Debug\Serv.pdb
+D:\Folder_cgd\LearnAndTestNew\UnityWangLuoYouXiShiZhan\Chapter8\Server\Serv\bin\Debug\MySql.Data.dll
+D:\Folder_cgd\LearnAndTestNew\UnityWangLuoYouXiShiZhan\Chapter8\Server\Serv\bin\Debug\MySql.Data.xml
+D:\Folder_cgd\LearnAndTestNew\UnityWangLuoYouXiShiZhan\Chapter8\Server\Serv\obj\x86\Debug\Serv.csprojResolveAssemblyReference.cache
+D:\Folder_cgd\LearnAndTestNew\UnityWangLuoYouXiShiZhan\Chapter8\Server\Serv\obj\x86\Debug\Serv.exe
+D:\Folder_cgd\LearnAndTestNew\UnityWangLuoYouXiShiZhan\Chapter8\Server\Serv\obj\x86\Debug\Serv.pdb
